@@ -1,5 +1,3 @@
-package thuc_hanh;
-
 import java.util.Date;
 
 public class thuchanh1 {

@@ -1,5 +1,3 @@
-package thuc_hanh;
-
 public class thuchanh2 {
     public static void main(String[] args) {
         int i = 10;
